@@ -1,3 +1,3 @@
 #### ToDoList-React
 ***
-##### 基于 React，Redux，localStorage 实现的 ToDoList 小案例。
+##### 一个基于 React，Redux，localStorage 实现的 ToDoList 小案例。对于刚接触 React 和 Redux 的小伙伴来说，是一个不错的练习实例。
